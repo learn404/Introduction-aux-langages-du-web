@@ -1,1 +1,2 @@
-# intro-langages-web
+# Introduction aux langages du web -  Learn404
+Ce dépôt GitHub est associé au cours Introduction aux langages du web de [Learn404](www.learn404.com). Il contient l'ensemble des ressources, exemples de code, et projets développés au cours de cette formation.
